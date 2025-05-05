@@ -17,8 +17,8 @@ import imageio.v2 as imageio
 IMAGES_DIR = "imagenes_combinadas"
 COMPOSITE_DIR = "imagenes_temp"
 GIF_PATH = "popocatepetl.gif"
-MAX_IMAGES = 10
-INTERVALO_SEGUNDOS = 300  # cada 5 minutos
+MAX_IMAGES = 2
+INTERVALO_SEGUNDOS = 10  # cada 5 minutos
 
 POPO_LAT, POPO_LON = 19.023, -98.622
 LON_MIN, LON_MAX = -118, -82
